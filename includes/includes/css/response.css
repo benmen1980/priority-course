@@ -1,0 +1,198 @@
+@media only screen and (max-width: 800px) {
+
+    /*response to accordion page*/
+    .video-and-content .col-1 {
+        width: 100%;
+        height: 230px;
+    }
+.title-flex .roi-diploma{
+    display: none;
+}
+    .title-welcome {
+        padding: 20px 0px;
+        margin: 20px 0px;
+    }
+
+    .video-container iframe {
+        width: 100% !important;
+        height: 220px !important;
+    }
+
+    .content-of-lesson .col-3 .button-to-comment {
+        font-size: 15px;
+        text-align: center;
+        flex-direction: row;
+        padding: 5px;
+    }
+
+    .comment-author {
+        font-size: 15px;
+
+    }
+
+    .comment-content p {
+        font-size: 14px;
+    }
+
+    .log-in-comment {
+        width: 98%;
+        padding: 10px;
+    }
+
+    .loader > span {
+        font-size: 40px;
+        line-height: 1.0;
+    }
+
+    h2.my-course {
+        font-size: 30px !important;
+    }
+
+    .course-description {
+        font-size: 18px;
+    }
+
+    .list-lessons {
+        padding: 10px;
+    }
+
+    .title-of-lesson {
+        font-size: 17px;
+    }
+
+    .video-and-content {
+        flex-direction: column;
+        /*height: 660px;*/
+        padding-top: 20px;
+
+    }
+
+    .content-of-lesson .col-2 {
+        width: 100%;
+        height: auto;
+    }
+
+
+    .content-of-lesson .col-2 button {
+        font-size: 16px;
+        line-height: 1.0 !important;
+        padding: 3px 15px 8px;
+    }
+
+    button.active {
+        padding: 5px 15px 8px;
+    }
+
+    .button-to-comment {
+        font-size: 15px;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .content-of-lesson .col-2 div.textarea-tab {
+        font-size: 14px;
+        height: 260px;
+    }
+    .textarea-tab {
+        font-size: 16px;
+        font-weight: 200;
+    }
+    .mejs-container {
+        height: 230px!important;
+
+    }
+
+    .content-of-lesson .col-3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .col-3 p {
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    .show .img-show {
+        height: 195px;
+        width: 323px;
+    }
+
+    .img-show div a {
+        width: 100%;
+        padding: 14px;
+        font-size: 16px;
+    }
+
+    .img-show div {
+        flex-direction: column;
+    }
+
+    /*response to shop of course*/
+    .shop-of-course-priority {
+        flex-direction: column;
+        height: 1714px;
+
+    }
+
+    .title-shop {
+        font-size: 33px;
+        width: 100%;
+    }
+
+    .title-maslulim {
+        font-size: 25px;
+        width: 100%;
+        top: 110px;
+    }
+
+    .products-maslulim {
+        flex-direction: column;
+        top: 930px;
+    }
+
+    .maslul {
+        /*height: 360px;*/
+        padding: 5px;
+        width: 250px;
+        height: 335px;
+        /*padding-top: 20px;*/
+    }
+
+    .container-maslul {
+        padding: 10px;
+    }
+
+    .maslul h2 {
+        font-size: 25px;
+    }
+
+    .maslul h3 {
+        font-size: 25px;
+    }
+    .maslul button{
+        margin: 5px;
+        padding: 10px;
+        font-size: 17px;
+        min-height: 1px;
+    }
+
+    .all-text {
+        font-size: 15px;
+        text-align:right;
+        line-height: 1.0;
+    }
+    .all-text p{
+        margin: 10px;
+    }
+    .shop-backgrond {
+        position: absolute;
+        /* height: 1769px; */
+        top: 0px;
+    }
+    .comment-form{
+        width: 100%;
+    }
+}
